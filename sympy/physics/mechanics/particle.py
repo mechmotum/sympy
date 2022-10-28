@@ -1,5 +1,5 @@
 from sympy.core.backend import sympify
-from sympy.physics.vector import Point, ReferenceFrame, cross
+from sympy.physics.vector import ReferenceFrame, cross
 from sympy.physics.mechanics.abstract_body import _Body
 from sympy.utilities.exceptions import sympy_deprecation_warning
 
